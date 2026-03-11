@@ -1,7 +1,15 @@
 # oneSecWeb-first-project
 
+
 Super projekt super koła TODO: zmienić opis
 
-Autorzy:
-Tymoteusz Huszcza
-Vladys Karibidis
+
+# Lubie dzem i kocham algebrę 
+
+
+## Autorzy:
+
+- Vladys Karibidis
+- Karol Maminski
+- Tymoteusz Huszcza
+- Mikołaj Brzozowski
