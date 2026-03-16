@@ -13,3 +13,4 @@ Super projekt super koła TODO: zmienić opis
 - Karol Maminski
 - Tymoteusz Huszcza
 - Mikołaj Brzozowski
+- Karol Małecki
